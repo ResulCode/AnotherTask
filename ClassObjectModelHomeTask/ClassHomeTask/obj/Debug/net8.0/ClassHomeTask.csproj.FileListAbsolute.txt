@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\bin\Debug\net8.0\ClassHomeTask.exe
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\bin\Debug\net8.0\ClassHomeTask.deps.json
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\bin\Debug\net8.0\ClassHomeTask.runtimeconfig.json
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\bin\Debug\net8.0\ClassHomeTask.dll
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\bin\Debug\net8.0\ClassHomeTask.pdb
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.AssemblyInfo.cs
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.sourcelink.json
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.dll
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\refint\ClassHomeTask.dll
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.pdb
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ClassHomeTask.genruntimeconfig.cache
+C:\Users\HP\Documents\AB205-HomeTask\ClassObjectModelHomeTask\ClassHomeTask\obj\Debug\net8.0\ref\ClassHomeTask.dll
